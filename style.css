@@ -1,0 +1,28 @@
+.faces{
+    padding:10px;
+    background-color: aqua;
+    border-radius: 3;
+}
+body{
+    background-color: blue;
+    color: pink;
+}
+.heading{
+    width: 80%;
+    padding: 22px;
+    border-radius: 2;
+    border-width: 3;
+    border-color: goldenrod;
+    border-style: dashed;
+    background-color:white;
+}
+.items{
+    color:black;
+}
+#webcam{
+    width: 400px;
+    height:300px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 2;
+}
